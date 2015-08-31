@@ -1,0 +1,24 @@
+Sitemap: http://www.ptsdreliefnow.org/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /september-newsletter-2015-a.html
+Disallow: /2/
+Disallow: /september-newsletter-2015-a/
+Disallow: /september-newsletter-2015-a
+Disallow: /september-newsletter-2015-b.html
+Disallow: /3/
+Disallow: /september-newsletter-2015-b/
+Disallow: /september-newsletter-2015-b
+Disallow: /september-newsletter-2015-c.html
+Disallow: /4/
+Disallow: /september-newsletter-2015-c/
+Disallow: /september-newsletter-2015-c
+Disallow: /september-newsletter-2015-d.html
+Disallow: /5/
+Disallow: /september-newsletter-2015-d/
+Disallow: /september-newsletter-2015-d
